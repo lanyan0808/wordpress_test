@@ -17,6 +17,7 @@
 // $posts = "select * from wp_posts";
 // $posts_data = $wpdb->get_results($posts,ARRAY_N);
 // var_dump($posts_data);exit;
+echo 'aaa';exit;
 get_header(); ?>
 
 	<div id="primary" class="content-area">
